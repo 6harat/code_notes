@@ -12,3 +12,6 @@
 
 * colored print statements:
 - https://www.geeksforgeeks.org/print-colors-python-terminal/
+
+* interfaces and duck typing:
+- http://masnun.rocks/2017/04/15/interfaces-in-python-protocols-and-abcs/
