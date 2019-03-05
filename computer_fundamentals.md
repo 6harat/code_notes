@@ -1,3 +1,43 @@
+# osi model:
+* aka: open systems interconnection (osi)
+* ref: 
+    + https://www.geeksforgeeks.org/layers-osi-model/
+    + https://en.wikipedia.org/wiki/List_of_network_protocols_(OSI_model)
+* Different Layers:
+    + Application:
+        - e.g. HTTP, FTP, SOAP, SMTP
+    + Presentation:
+        - e.g. TLS, SSL
+    + Session:
+        - e.g. RPC
+    + Transport:
+        - e.g. TCP, UDP
+    + Lower/Hardware Layers:
+        - Network: responsible for transmission of data amongst host of different networks
+            + e.g. IP
+            + routing: determining which route is suitable from source to destination
+            + logical addressing: attaching ip addresses of each device to the header to help distinguish one device from another
+        - Data Link: responsible for node-to-node delivery of the message
+            + e.g. Ethernet
+            + Logical Link Control
+            + Media Access Control
+            + Functions:
+                - Framing: attach special bit patterns at begin/end to create a frame
+                - Physical Addressing: adding physical (MAC) addresses of sender/receiver in the header of the frame
+                - Error Control: detecting and retransmitting damaged/lost frames
+                - Flow Control: coordinating the amound of data that can be sent before receiving acknowledgement to maintain constant data rate
+                - Access Control: manage controls amongst devices sharing the same channel for a single communication
+        - Phsyical: responsible for actual physical connection between devices
+            + e.g. USB, Infrared
+            + bit synchronization by providing a clock
+            + bit rate control
+            + identifies the topology as well - star, bus, mesh, etc.
+            + transmission mode  simplex, half-duplex, full-duplex
+        __Note__: mnemonic for remembering the above order is AP-ST-ND-P 
+        {Arunachal Pradhesh StaTe New Delhi Punjab}
+
+
+
 # architecture:
 - https://www.geeksforgeeks.org/cache-memory/
 - https://www.geeksforgeeks.org/2d-and-2-5d-memory-organization/
