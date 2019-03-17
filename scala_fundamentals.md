@@ -1,0 +1,2 @@
+- https://twitter.github.io/scala_school/
+- https://github.com/scala-lms/tutorials

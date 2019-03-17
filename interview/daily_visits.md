@@ -1,16 +1,15 @@
-# practice:
-- https://www.hackerrank.com/interview/interview-preparation-kit
-- https://www.interviewbit.com/practice/
-- https://www.hackerearth.com/challenges/
-- https://challengerocket.com/
-- https://app.codility.com/programmers/
-
 # portals:
 - https://www.instahyre.com/candidate/opportunities/0/?interest_facet=0
 - https://stackoverflow.com/jobs?med=site-ui&ref=jobs-tab
 - https://www.npmjs.com/whoshiring
 
 # future_applications:
+- hostar:
+    https://jobs.lever.co/hotstar?commitment=Full%20time
+- grab:
+    https://grab.careers/team-engineering/?tm=Engineering
+- apple:
+    https://jobs.apple.com/en-in/details/200032343/software-engineer-pie-telemetry-team?team=SFTWR
 - booking.com:
     https://careers.booking.com/job/BOOKUS1664/Full-Stack-Developer
     https://careers.booking.com/job/BOOKUS1819/Software-Developer
@@ -34,6 +33,8 @@
 # interested queue:
 - https://angel.co/yalo
 - https://coseer.com/s/careers#roles
+- https://cleartax.applytojob.com/apply/fBcDHIgT2J/Software-Engineer-II
+- https://adahealth.bamboohr.co.uk/jobs/view.php?id=5
 
 
 # additional info queue:

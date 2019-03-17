@@ -22,3 +22,13 @@
     solution: stack
 - for a stream of numbers return the first unique number with every update
     solution: deque + hash_map
+
+# d.e. shaw:
+- given a series of number and an operation to be repeated k times on those number find the
+    min-sum possible at the end of the kth operation. operation
+- count ways to express a number as sum of consecutive numbers.
+- determine the longest continuous sub-array having sum <= given value, k
+
+# cars24:
+- given a pointer to just the specified node in a linked list, how to delete that node
+- given a stream of 0s and 1s determine at each step if the decimal representation of the bit stream is divisible by 3.
