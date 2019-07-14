@@ -1,30 +1,36 @@
 # sources:
-- https://docs.python.org/3/library/asyncio.html
-- https://www.pythonsheets.com/notes/python-asyncio.html
-- https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/
-- https://realpython.com/async-io-python/
-- http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/
+* throttling:
+    - https://compiletoi.net/fast-scraping-in-python-with-asyncio/
+    - https://stackoverflow.com/a/35198369/6687477
+    - https://stackoverflow.com/questions/20247354/limiting-throttling-the-rate-of-http-requests-in-grequests
 
-- https://github.com/ReactiveX/RxPY
+* others:
+    - https://docs.python.org/3/library/asyncio.html
+    - https://www.pythonsheets.com/notes/python-asyncio.html
+    - https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/
+    - https://realpython.com/async-io-python/
+    - http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/
 
-- https://github.com/syrusakbary/promise
+    - https://github.com/ReactiveX/RxPY
 
-- https://github.com/AndreLouisCaron/a-tale-of-event-loops
+    - https://github.com/syrusakbary/promise
 
-- https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures
+    - https://github.com/AndreLouisCaron/a-tale-of-event-loops
+
+    - https://docs.python.org/3/library/concurrent.futures.html#module-concurrent.futures
 
 * sharing event loop in asyncio:
-- https://github.com/aio-libs/aiohttp/issues/2619
+    - https://github.com/aio-libs/aiohttp/issues/2619
 
 * coroutines:
-- http://dabeaz.com/coroutines/
+    - http://dabeaz.com/coroutines/
 
 * multiprocessing:
-- http://effbot.org/pyfaq/what-kinds-of-global-value-mutation-are-thread-safe.htm
-- https://gist.github.com/mangecoeur/9540178
+    - http://effbot.org/pyfaq/what-kinds-of-global-value-mutation-are-thread-safe.htm
+    - https://gist.github.com/mangecoeur/9540178
 
 * async library list:
-- https://github.com/timofurrer/awesome-asyncio
+    - https://github.com/timofurrer/awesome-asyncio
 
 * graceful shutdown:
 - https://groups.google.com/forum/#!topic/python-tulip/91NCCqV4SFs

@@ -1,0 +1,10 @@
+# python_advanced:
+* gpu_programming:
+	+ https://www.anaconda.com/getting-started-with-gpu-computing-in-anaconda/
+	+ https://weeraman.com/put-that-gpu-to-good-use-with-python-e5a437168c01
+	+ https://www.researchgate.net/post/How_do_I_run_a_python_code_in_the_GPU
+	+ https://stackoverflow.com/questions/5957554/python-gpu-programming
+	+ https://medium.com/3blades-blog/an-introduction-to-gpu-programming-with-python-637818be6f7d
+	+ https://linuxhint.com/gpu-programming-python/
+	+ https://www.quora.com/Is-it-difficult-to-use-the-GPU-instead-the-CPU-to-run-a-Python-script-which-shall-calculate-100-of-millions-of-operations
+	+ https://developer.nvidia.com/how-to-cuda-python

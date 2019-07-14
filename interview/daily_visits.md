@@ -35,7 +35,7 @@
 - https://coseer.com/s/careers#roles
 - https://cleartax.applytojob.com/apply/fBcDHIgT2J/Software-Engineer-II
 - https://adahealth.bamboohr.co.uk/jobs/view.php?id=5
-
+- https://www.linkedin.com/jobs/view/1074898476/
 
 # additional info queue:
 - https://stackoverflow.com/jobs/243932/java-spring-developer-clevertech?so=i&pg=1&offset=0
